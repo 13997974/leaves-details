@@ -1,5 +1,7 @@
 # leaves-details
 teachers leave records
 
-
-and wanna learn the git using
+1)leave management
+2)late  coming details
+3)substitution of classes
+4)lesson plan for teachers
